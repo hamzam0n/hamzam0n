@@ -21,9 +21,9 @@
    
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"><img alt="Php" src="https://user-images.githubusercontent.com/84931728/129572539-d6ad7f7e-b878-4001-a8f7-a9608a06e71b.png" style="max-width:100%;" width="26px" align="left"></a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"><img alt="Spyder" src="https://user-images.githubusercontent.com/84931728/129572610-e27ee974-80b3-4e1b-a49b-499e049a9b66.png" style="max-width:100%;" width="26px" align="left"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"><img alt="Spyder" src="https://user-images.githubusercontent.com/50217850/136708058-f9f371a4-ed39-46f9-ad99-263f07f74683.png" style="max-width:100%;" width="26px" align="left"></a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"><img alt="Jupyter" src="https://user-images.githubusercontent.com/50217850/136708058-f9f371a4-ed39-46f9-ad99-263f07f74683.png" style="max-width:100%;" width="26px" align="left"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"><img alt="Jupyter" src="https://user-images.githubusercontent.com/50217850/136708149-a29f7561-d0b0-4a00-99a9-010fe3177f3e.png" style="max-width:100%;" width="26px" align="left"></a>
 <br><br>
 
 ## GitHub Stats:
