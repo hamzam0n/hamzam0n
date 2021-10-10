@@ -23,7 +23,7 @@
 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"><img alt="Spyder" src="https://user-images.githubusercontent.com/84931728/129572610-e27ee974-80b3-4e1b-a49b-499e049a9b66.png" style="max-width:100%;" width="26px" align="left"></a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"><img alt="Jupyter" src="https://user-images.githubusercontent.com/84931728/129572723-659edd74-7646-49c3-8a53-4f177bbca728.png" style="max-width:100%;" width="26px" align="left"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"><img alt="Jupyter" src="https://user-images.githubusercontent.com/50217850/136708058-f9f371a4-ed39-46f9-ad99-263f07f74683.png" style="max-width:100%;" width="26px" align="left"></a>
 <br><br>
 
 ## GitHub Stats:
