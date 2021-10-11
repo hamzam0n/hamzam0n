@@ -2,8 +2,8 @@
 
 ## I'm Developer and junior data scientist 
 
-- 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in Data science and Artificial intelligence and the subjects of cyber security 
+
 <br><br>
 ## Connect with me:
 <a href="mailto:monhamza1@gmail.com"><img alt="Mouncif Hamza | Email" src="https://camo.githubusercontent.com/598902b81c020e27505970e729fc974b79d83695c043123c9b4e05aeed2872f1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f372f37652f476d61696c5f69636f6e5f253238323032302532392e737667" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style="max-width:100%;" width="22px" align="left"></a>
